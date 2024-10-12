@@ -291,8 +291,8 @@ export const projects = [
     "image": "image.png",
     "tags": ["React", "Tailwind CSS"],
     "category": "portfolio",
-    "github": "https://github.com/stutisharma31/Portfolio",
-    "webapp": "https://yourwebsite.com/portfolio",
+    "github": "https://github.com/stutisharma31/Personal-Portfolio",
+    "webapp": "https://personal-portfolio-stuti.vercel.app/",
     "member": [
       {
         "name": "Stuti Sharma",
