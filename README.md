@@ -67,7 +67,7 @@ A full-stack application to search, filter, and contact sellers for real estate 
 
 I would love to hear from you! Feel free to reach out via any of the following:
 
-- 📧 **Email**: your-email@example.com
+- 📧 **Email**: stuti.shashu@gmail.com
 - 🔗 **LinkedIn**: [linkedin.com/in/stutisharma31](https://linkedin.com/in/stutisharma31)
 - 🐱‍💻 **GitHub**: [github.com/stutisharma31](https://github.com/stutisharma31)
 - 📝 **Website**: [personal-portfolio-stuti.vercel.app]([https://yourwebsite.com](https://personal-portfolio-stuti.vercel.app/))
