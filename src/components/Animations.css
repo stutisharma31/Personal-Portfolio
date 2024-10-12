@@ -1,0 +1,35 @@
+.nav-icon {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .nav-icon:hover {
+    transform: scale(1.2) rotate(100deg);
+    animation: popOut 0.3s ease-in-out forwards;
+  }
+
+@keyframes fallIn {
+  0% {
+    transform: translateY(-50px);
+    opacity: 0;
+  }
+  60% {
+    transform: translateY(10px);
+  }
+  80% {
+    transform: translateY(-5px);
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.nav-item {
+  opacity: 0;
+  animation: fallIn 0.5s ease-out forwards;
+  
+}
+
+.nav-item:hover {
+  transform: scale(1.1);
+}
