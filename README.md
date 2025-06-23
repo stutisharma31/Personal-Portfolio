@@ -14,7 +14,6 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 - [Contact](#contact)
 
 ---
-
 ## About Me 🌟
 
 Hello! I'm **Stuti**, a final-year **Computer Science and Engineering** student with a passion for **full-stack web development**, **AI**, and **machine learning**. I am constantly seeking to expand my skill set and work on innovative projects that impact the world positively.
