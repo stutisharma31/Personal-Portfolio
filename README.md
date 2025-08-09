@@ -3,6 +3,7 @@
 Welcome to my personal portfolio! This website showcases my skills, projects, and accomplishments in the world of software development and technology.
 
 
+
 ![Screenshot 2024-10-12 205543](https://github.com/user-attachments/assets/d37ba77c-9ea2-40a6-a847-cf329836af56)
  <!-- Replace this URL with your actual image link -->
 
@@ -75,4 +76,5 @@ I would love to hear from you! Feel free to reach out via any of the following:
 ---
 
 Thank you for visiting my portfolio! 😊 I look forward to connecting with you.
+
 
